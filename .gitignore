@@ -1,0 +1,44 @@
+# ================================
+# Environment & Secrets
+# ================================
+.env
+.env.*
+!.env.example
+
+# ================================
+# OS & Editor Artifacts
+# ================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ================================
+# Logs & Debug Files
+# ================================
+logs/
+*.log
+debug.log
+
+# ================================
+# Temporary & Backup Files
+# ================================
+tmp/
+temp/
+*.bak
+*.swp
+*.swo
+
+# ================================
+# Node / Automation Artifacts
+# (future-proofing)
+# ================================
+node_modules/
+dist/
+build/
+
+# ================================
+# CI / Deployment Artifacts
+# ================================
+.vercel/
+.vercel/*
